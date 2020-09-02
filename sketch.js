@@ -9,7 +9,6 @@ count = 0
 
 function preload() {
      plimg = loadImage("shuttle.png");
-     obsimg1 = loadImage("sat1.png");
      obsimg2 = loadImage("sat2.png");
      obsimg3 = loadImage("sat3.png");
     backgroundimg = loadImage("earth.jpg")
