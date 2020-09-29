@@ -12,7 +12,7 @@ function preload() {
      obsimg2 = loadImage("sat2.png");
      obsimg3 = loadImage("sat3.png");
     backgroundimg = loadImage("earth.jpg")
-    coinimg = loadImage("untitled.png")
+    coinimg = loadImage("Untitled.png")
     resetimg = loadImage("reset.jpg")
     crashsound = loadSound("crash.m4a")
 }
